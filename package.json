@@ -1,0 +1,14 @@
+{
+  "scripts": {
+   "build":"node lib/index.js"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.11.3",
+    "@babel/traverse": "^7.11.0",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
